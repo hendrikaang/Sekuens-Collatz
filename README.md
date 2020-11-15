@@ -1,0 +1,1 @@
+# Sekuens-Collatz
