@@ -1,5 +1,8 @@
 # Sekuens-Collatz
 
+Abraham Silberschatz-Operating System Concepts (9th,2012.12)
+Programming Problems 3.21
+
 The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
 
 n = (n/2)       if n is even;
